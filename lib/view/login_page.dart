@@ -29,7 +29,7 @@ class _LoginPageState extends State<LoginPage> {
           text: TextSpan(
             children: <TextSpan>[
               TextSpan(
-                text: 'Welcome ',style: GoogleFonts.poppins(color: Colors.black, fontSize: size*0.08)
+                text: 'Welcome to ',style: GoogleFonts.poppins(color: Colors.black, fontSize: size*0.08)
               ),
               TextSpan(
                 text: 'back',style: GoogleFonts.poppins(color: Color.fromARGB(255, 48, 189, 217), fontSize: size*0.08)
